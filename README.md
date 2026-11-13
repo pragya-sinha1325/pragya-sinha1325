@@ -1,16 +1,44 @@
-## Hi there 👋
+Hi, I'm Pragya! 👋
 
-<!--
-**pragya-sinha1325/pragya-sinha1325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science and Engineering Student at M.S. Ramaiah University of Applied Sciences, Bengaluru.
 
-Here are some ideas to get you started:
+💻 Aspiring Software Developer | Technology Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+
+🌱 Currently learning C, Python, and Java.
+
+💡 Interested in Software Development and Web Development.
+
+🧠 Passionate about programming and problem-solving.
+
+🎯 Focused on building technical skills and developing real-world projects.
+
+🤝 Always open to learning and collaborating with fellow developers.
+
+💻 Programming Languages
+
+C
+
+Python
+
+Java
+
+🎯 Current Goals
+
+Strengthen programming fundamentals.
+
+Learn Data Structures and Algorithms.
+
+Explore HTML, CSS, and JavaScript.
+
+Build meaningful projects.
+
+Contribute to open-source projects.
+
+📫 Connect With Me
+
+LinkedIn: Add your LinkedIn profile URL
+
+⭐ Thanks for visiting my profile!
+
