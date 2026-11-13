@@ -1,44 +1,29 @@
-Hi, I'm Pragya! 👋
+Hi, I'm Pragya 👋
 
-🎓 B.Tech Computer Science and Engineering Student at M.S. Ramaiah University of Applied Sciences, Bengaluru.
+🎓 B.Tech Computer Science and Engineering Student at M.S. Ramaiah University of Applied Sciences, Bengaluru
 
 💻 Aspiring Software Developer | Technology Enthusiast
 
-🚀 About Me
+About Me
 
-🌱 Currently learning C, Python, and Java.
+🌱 Currently learning C, Python, and Java
 
-💡 Interested in Software Development and Web Development.
+🚀 Interested in Software Development and Web Development
 
-🧠 Passionate about programming and problem-solving.
+🧠 Building my programming and problem-solving skills
 
-🎯 Focused on building technical skills and developing real-world projects.
+🎯 Working towards creating practical projects and exploring new technologies
 
-🤝 Always open to learning and collaborating with fellow developers.
+Skills
 
-💻 Programming Languages
+Languages: C, Python, Java
 
-C
+Interests: Software Development, Web Development
 
-Python
+Currently Exploring: Git, GitHub, Data Structures and Algorithms
 
-Java
+Connect With Me
 
-🎯 Current Goals
+LinkedIn: www.linkedin.com/in/pragya-suman-sinha-67440644b
 
-Strengthen programming fundamentals.
-
-Learn Data Structures and Algorithms.
-
-Explore HTML, CSS, and JavaScript.
-
-Build meaningful projects.
-
-Contribute to open-source projects.
-
-📫 Connect With Me
-
-LinkedIn: Add your LinkedIn profile URL
-
-⭐ Thanks for visiting my profile!
-
+⭐ Learning, building, and improving one step at a time.
